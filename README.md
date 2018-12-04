@@ -1,1 +1,1 @@
-# geo-game
+Run `main.exe` to play.
